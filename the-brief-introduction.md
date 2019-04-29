@@ -58,12 +58,12 @@
 **2011-09 ～ 2015-10** 上海时敏贸易有限公司  
 
 ## 技能
-**laravel5.7/yii2.0/TP3.2/TP5.0（工作项目中用到的）**
-**VUE/JQUERY**
-**MySQL/Redis/MongoDB**
-**微信公众号、小程序相关功能开发**
-**自搭建SVN服务，GITLAB服务**
-**阿里云OSS、短信、PHPEXCEL、PDF**
+**laravel5.7/yii2.0/TP3.2/TP5.0（工作项目中用到的）**  
+**VUE/JQUERY**  
+**MySQL/Redis/MongoDB**  
+**微信公众号、小程序相关功能开发**  
+**自搭建SVN服务，GITLAB服务**  
+**阿里云OSS、短信、PHPEXCEL、PDF**  
 
 ## 自我评价
 
